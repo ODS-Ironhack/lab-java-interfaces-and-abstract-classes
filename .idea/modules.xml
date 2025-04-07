@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/IntList.iml" filepath="$PROJECT_DIR$/IntList.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/lab-java-interfaces-and-abstract-classes.iml" filepath="$PROJECT_DIR$/.idea/lab-java-interfaces-and-abstract-classes.iml" />
     </modules>
   </component>

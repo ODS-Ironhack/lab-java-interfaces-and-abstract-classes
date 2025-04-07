@@ -1,3 +1,5 @@
+package cars;
+
 public abstract class Car {
     private String vinNumber;
     private String make;
